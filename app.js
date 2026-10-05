@@ -4,7 +4,7 @@
    LANGKAH WAJIB: tempel URL Web App Apps Script kamu di bawah.
    Contoh: "https://script.google.com/macros/s/AKfycb.../exec"
    ============================================================ */
-const WEB_APP_URL = "";   // <-- ISI DI SINI
+const WEB_APP_URL = "https://script.google.com/macros/s/AKfycbyBJrg94vWz9xNI7jYH9z743iJJ1cbt5XE7PMHqGmkurGQgNTEjRguoyZQfS62_KBQ-zg/exec";   // <-- ISI DI SINI
 
 const REFRESH_MS = 30000; // perbarui peringkat tiap 30 detik
 
